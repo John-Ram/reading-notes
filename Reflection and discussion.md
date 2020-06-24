@@ -1,6 +1,6 @@
 ## Reflection and disscussion.
 
-[Back to Main Page.](https://john-ram.github.io/reading-notes/)
+[Back to Main Page.](reading-notes.md)
 
 #Code 102 Day one:
 
@@ -18,4 +18,4 @@ Once you gain a better that foothold, the work is actually a lot of fun, so dont
 
 
 Markdown is a great tool to have, and given how simple it is, it helps take some of the edge off in order to focus on your tasks.
-https://guides.github.com/features/mastering-markdown/
+[Click here](https://guides.github.com/features/mastering-markdown/)
