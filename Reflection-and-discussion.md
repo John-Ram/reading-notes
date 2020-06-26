@@ -1,7 +1,7 @@
 ## Reflection and disscussion.
 
 
-*Code 102 Class 3:*
+*Code 102 Class 1:*
 
 -The main thing to learn is to keep an open mind to new forms of learning. 
 like in many fields, things don't always go to plan. When that happens don't be afraid, ask for help. 

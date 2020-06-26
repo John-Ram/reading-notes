@@ -1,6 +1,6 @@
 ## Revisions and the Cloud
 
-*Code 102 Class 4:*
+*Code 102 Class 3:*
 
 >"Like a Blacksmith, in order to forge an item we must first understand our tools."
 >
