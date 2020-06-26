@@ -1,6 +1,6 @@
 ## Read 2: Coder's computer
 
-*Code 102 Day:2*
+*Code 102: Class 2*
 
 
 
