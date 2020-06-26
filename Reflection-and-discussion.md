@@ -1,8 +1,7 @@
 ## Reflection and disscussion.
 
-[Back to Main Page.](https://john-ram.github.io/reading-notes/)
 
-#Code 102 Day one:
+*Code 102 Class 3:*
 
 -The main thing to learn is to keep an open mind to new forms of learning. 
 like in many fields, things don't always go to plan. When that happens don't be afraid, ask for help. 
@@ -19,3 +18,5 @@ Once you gain a better that foothold, the work is actually a lot of fun, so dont
 
 Markdown is a great tool to have, and given how simple it is, it helps take some of the edge off in order to focus on your tasks.
 [Click here](https://guides.github.com/features/mastering-markdown/)
+
+[Back to Main Page.](https://john-ram.github.io/reading-notes/)
