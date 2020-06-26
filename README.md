@@ -15,6 +15,8 @@ Hi there, my name is John. whether this is being read by myself or by someone el
 
 **table of contents:**
 
+**Code 102**
+
 -[Growth Mindset](growth-mindset.md)
 
 -[Class 1: Reflection and discussion](Reflection-and-discussion.md)
@@ -25,5 +27,14 @@ Hi there, my name is John. whether this is being read by myself or by someone el
 
 -[Class 4: Web page Structre with HTML](web-page-structure.md)
 
+-[Class 5: Design web pages with CSS](web-pages-css.md)
+
+-[Class 6a: Dynamic web pages with JavaScript](dynamic-javascript.md)
+
+-[Class 6b: Computer Architecture and Logic](Computer-logic.md)
+
+-[Class 7: Programming with JavaScript](programming-javascript.md)
+
+-[ Class 8: Operators and Loops](operators-and-loops.md)
 
 
