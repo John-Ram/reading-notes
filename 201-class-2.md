@@ -12,3 +12,7 @@ In 102 we covered the basics of **HTML**, **CSS**, and **JavaScript**. And maybe
 For me it was mainly in HTML, for example; you can separate text using line breaks or *<br />* (really wish i found that before.) which allows you to put your text in different lines when showing the final product. it helps curve the need to use the cushions and paddings of **CSS**. It's important to know how to work it in **CSS** but having a better understanding of **HTML** definitely helps. 
 
 With **CSS** and **JavaScript** it was mainly a refresher, a much needed one I'll admit. you still have your elements, Variables, and selectors. but it never hurts to go back and see if you missed something useful.
+
+If you liked this then follow [My GitHub](https://github.com/John-Ram) where more of these posts will uploaded throughout my time at Codefellows.
+
+[Back to Main Page](https://john-ram.github.io/reading-notes.md/)

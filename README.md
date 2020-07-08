@@ -40,6 +40,32 @@ Hi there, my name is John. whether this is being read by myself or by someone el
 
 **Code 201**
 
--[Class 1:]()
+-[Class 1: Introductory HTML and JavaScript]()
 
 -[Class 2: HTML Text, CSS Introduction, and Basic JavaScript Instructions](201-class-2.md)
+
+-[Class 3: HTML Lists, CSS Boxes, JS Control Flow](201-class-3.md)
+
+-[Class 4: HTML Links, CSS Layout, JS Functions]()
+
+-[Class 5: HTML Images; CSS Color & Text]()
+
+-[Class 6: JS Object Literals; The DOM]()
+
+-[Class 7: HTML Tables; JS Constructor Functions]()
+
+-[Class 8: More CSS Layout]()
+
+-[Class 9: Forms and Events]()
+
+-[Class 10: JS Debugging]()
+
+-[Class 11: Assorted Topics]()
+
+-[Class 12: Docs for the HTML <canvas> Element & Chart.js]()
+
+-[Class 13: Local Storage]()
+
+-[Class 14a: CSS Transforms, Transitions, and Animations]()
+
+-[Class 14b: What Google Learned About Teams]()
