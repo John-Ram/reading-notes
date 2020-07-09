@@ -46,7 +46,7 @@ Hi there, my name is John. whether this is being read by myself or by someone el
 
 -[Class 3: HTML Lists, CSS Boxes, JS Control Flow](201-class-3.md)
 
--[Class 4: HTML Links, CSS Layout, JS Functions]()
+-[Class 4: HTML Links, CSS Layout, JS Functions](201-class-4.md)
 
 -[Class 5: HTML Images; CSS Color & Text]()
 
@@ -62,7 +62,7 @@ Hi there, my name is John. whether this is being read by myself or by someone el
 
 -[Class 11: Assorted Topics]()
 
--[Class 12: Docs for the HTML <canvas> Element & Chart.js]()
+-[Class 12: Docs for the HTML Canvas Element & Chart js]()
 
 -[Class 13: Local Storage]()
 
