@@ -54,9 +54,9 @@ Hi there, my name is John. whether this is being read by myself or by someone el
 
 -[Class 7: HTML Tables; JS Constructor Functions]()
 
--[Class 8: More CSS Layout]()
+-[Class 8: More CSS Layout](201-class-8.md)
 
--[Class 9: Forms and Events]()
+-[Class 9: Forms and Events](201-class-9.md)
 
 -[Class 10: JS Debugging]()
 
