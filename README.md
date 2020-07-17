@@ -58,7 +58,7 @@ Hi there, my name is John. whether this is being read by myself or by someone el
 
 -[Class 9: Forms and Events](201-class-9.md)
 
--[Class 10: JS Debugging]()
+-[Class 10: JS Debugging](201-class-10.md)
 
 -[Class 11: Assorted Topics]()
 
