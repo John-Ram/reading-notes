@@ -60,7 +60,7 @@ Hi there, my name is John. whether this is being read by myself or by someone el
 
 -[Class 10: JS Debugging](201-class-10.md)
 
--[Class 11: Assorted Topics]()
+-[Class 11: Assorted Topics](201-class-11.md)
 
 -[Class 12: Docs for the HTML Canvas Element & Chart js]()
 
