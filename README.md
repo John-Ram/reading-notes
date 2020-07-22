@@ -62,7 +62,7 @@ Hi there, my name is John. whether this is being read by myself or by someone el
 
 -[Class 11: Assorted Topics](201-class-11.md)
 
--[Class 12: Docs for the HTML Canvas Element & Chart js]()
+-[Class 12: Docs for the HTML Canvas Element & Chart js](201-class-12.md)
 
 -[Class 13: Local Storage]()
 
