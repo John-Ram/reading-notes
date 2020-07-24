@@ -66,6 +66,6 @@ Hi there, my name is John. whether this is being read by myself or by someone el
 
 -[Class 13: Local Storage]()
 
--[Class 14a: CSS Transforms, Transitions, and Animations]()
+-[Class 14a: CSS Transforms, Transitions, and Animations](201-class-14a.md)
 
--[Class 14b: What Google Learned About Teams]()
+-[Class 14b: What Google Learned About Teams](201-class-14b.md)
