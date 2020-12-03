@@ -15,7 +15,7 @@ Hi there, my name is John. whether this is being read by myself or by someone el
 
 **table of contents:**
 
-**Code 102**
+**Code 102: Intro to Software Development**
 
 -[Growth Mindset](growth-mindset.md)
 
@@ -38,7 +38,7 @@ Hi there, my name is John. whether this is being read by myself or by someone el
 -[ Class 8: Operators and Loops](operators-and-loops.md)
 
 
-**Code 201**
+**Code 201: Foundations of Software Development**
 
 -[Class 1: Introductory HTML and JavaScript]()
 
@@ -70,7 +70,7 @@ Hi there, my name is John. whether this is being read by myself or by someone el
 
 -[Class 14b: What Google Learned About Teams](201-class-14b.md)
 
-**Code 301**
+**Code 301: Intermediate Software Development**
 
 -[Class 1: SMACSS and Responsive Web Design](301/301-class-1.md)
 
@@ -104,3 +104,34 @@ Hi there, my name is John. whether this is being read by myself or by someone el
 
 -[Class 15: Diversity and Inclusion](301/301-class-15.md)
 
+**Code 401: Advanced Software Development**
+
+-[Class 1:]()
+
+-[Class 2:]()
+
+-[Class 3:]()
+
+-[Class 4:]()
+
+-[Class 5:]()
+
+-[Class 6:]()
+
+-[Class 7:]()
+
+-[Class 8:]()
+
+-[Class 9:]()
+
+-[Class 10:]()
+
+-[Class 11:]()
+
+-[Class 12:]()
+
+-[Class 13:]()
+
+-[Class 14:]()
+
+-[Class 15:]()
