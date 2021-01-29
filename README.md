@@ -6,6 +6,8 @@
 >
 >"Don't be afraid to fall."
 >
+>"Success is the result, not the goal."
+>
 
 For me these quotes summerize the Growth Mindset, they let you know that because you didn't succeed in one attempt, you are more likely to prevail in another. Coding is tough, but the rewards are high.
 
@@ -42,9 +44,9 @@ Hi there, my name is John. whether this is being read by myself or by someone el
 
 -[Class 1: Introductory HTML and JavaScript]()
 
--[Class 2: HTML Text, CSS Introduction, and Basic JavaScript Instructions](201-class-2.md)
+-[Class 2: HTML Text, CSS Introduction, and Basic JavaScript Instructions](201/201-class-2.md)
 
--[Class 3: HTML Lists, CSS Boxes, JS Control Flow](201-class-3.md)
+-[Class 3: HTML Lists, CSS Boxes, JS Control Flow](201/201-class-3.md)
 
 -[Class 4: HTML Links, CSS Layout, JS Functions](201-class-4.md)
 
@@ -98,9 +100,7 @@ Hi there, my name is John. whether this is being read by myself or by someone el
 
 -[Class 13: Update/Delete](301/301-class-13.md)
 
--[Class 14a: DB Normalization](301/301-class-14a.md)
-
--[Class 14b: Project Ideas & APIs](301/301-class-14b.md)
+-[Class 14: Database Normalization](301/301-class-14a.md)
 
 -[Class 15: Diversity and Inclusion](301/301-class-15.md)
 
@@ -135,3 +135,7 @@ Hi there, my name is John. whether this is being read by myself or by someone el
 -[Class 14:]()
 
 -[Class 15:]()
+
+**Personal logs:**
+
+-[Archery and Coding](Archery-and-Coding.md)
