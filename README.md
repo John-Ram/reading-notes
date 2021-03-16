@@ -106,35 +106,93 @@ Hi there, my name is John. whether this is being read by myself or by someone el
 
 **Code 401: Advanced Software Development**
 
--[Class 1:]()
+-[Class 1:](401-java/401-class-01.md)
 
--[Class 2:]()
+-[Class 2:](401-java/401-class-02.md)
 
--[Class 3:]()
+-[Class 3:](401-java/401-class-03.md)
 
--[Class 4:]()
+-[Class 4:](401-java/401-class-04.md)
 
--[Class 5:]()
+-[Class 5:](401-java/401-class-05.md)
 
--[Class 6:]()
+-[Class 6:](401-java/401-class-06.md)
 
--[Class 7:]()
+-[Class 7:](401-java/401-class-07.md)
 
--[Class 8:]()
+-[Class 8:](401-java/401-class-08.md)
 
--[Class 9:]()
+-[Class 9:](401-java/401-class-09.md)
 
--[Class 10:]()
+-[Class 10:](401-java/401-class-10.md)
 
--[Class 11:]()
+-[Class 11:](401-java/401-class-11.md)
 
--[Class 12:]()
+-[Class 12:](401-java/401-class-12.md)
 
--[Class 13:]()
+-[Class 13:](401-java/401-class-13.md)
 
--[Class 14:]()
+-[Class 14:](401-java/401-class-14.md)
 
--[Class 15:]()
+-[Class 15:](401-java/401-class-15.md)
+
+-[Class 16:](401-java/401-class-16.md)
+
+-[Class 17:](401-java/401-class-17.md)
+
+-[Class 18:](401-java/401-class-18.md)
+
+-[Class 19:](401-java/401-class-19.md)
+
+-[Class 20:](401-java/401-class-20.md)
+
+-[Class 21:](401-java/401-class-21.md)
+
+-[Class 22:](401-java/401-class-22.md)
+
+-[Class 23:](401-java/401-class-23.md)
+
+-[Class 24:](401-java/401-class-24.md)
+
+-[Class 25:](401-java/401-class-25.md)
+
+-[Class 26:](401-java/401-class-26.md)
+
+-[Class 27:](401-java/401-class-27.md)
+
+-[Class 28:](401-java/401-class-28.md)
+
+-[Class 29:](401-java/401-class-29.md)
+
+-[Class 30:](401-java/401-class-30.md)
+
+-[Class 31:](401-java/401-class-31.md)
+
+-[Class 32:](401-java/401-class-32.md)
+
+-[Class 33:](401-java/401-class-33.md)
+
+-[Class 34:](401-java/401-class-34.md)
+
+-[Class 35:](401-java/401-class-35.md)
+
+-[Class 36:](401-java/401-class-36.md)
+
+-[Class 37:](401-java/401-class-37.md)
+
+-[Class 38:](401-java/401-class-38.md)
+
+-[Class 39:](401-java/401-class-39.md)
+
+-[Class 40:](401-java/401-class-40.md)
+
+-[Class 41:](401-java/401-class-41.md)
+
+-[Class 42:](401-java/401-class-42.md)
+
+-[Class 43:](401-java/401-class-43.md)
+
+-[Class 44:](401-java/401-class-44.md)
 
 **Personal logs:**
 
